@@ -1,6 +1,6 @@
 # DIRECTIONS
 
-https://github.com/robtweed/qewd
+original site: https://github.com/robtweed/qewd
 
 1. clone this repo
 2. pull docker image `docker pull rtweed/qewd-server-rpi`
