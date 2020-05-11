@@ -11,3 +11,14 @@ original site: https://github.com/robtweed/qewd
 
 ** don't forget the trailing slash `/` **
 
+## Result
+
+Test URL: http://localhost:3000/api/helloworld
+
+Screenshot: 
+![API Browser result](api-result.png)
+
+
+```json
+{"hello":"world"}
+```
